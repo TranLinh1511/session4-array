@@ -4,7 +4,7 @@ public class Bai8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String [] arr = {"a","b","c","d","e"};
+        String [] arr = {"a","b","c","d","e","a"};
         int count = 0;
         System.out.print("Nhập kí tự cần tìm: ");
         String searchValue  = sc.nextLine();
